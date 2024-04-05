@@ -18,19 +18,3 @@ dt {
     color:rgb(255, 234, 234)
 }
 
-dd {
-    font-size: 16px;
-}
-
-table {
-    width: 100%;
-}
-
-th,
-td {
-    border: 1px solid #ccc;
-}
-
-th {
-    background-color: #ccc;
-}
